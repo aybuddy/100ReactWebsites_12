@@ -21,3 +21,5 @@ Update on this challenge:
 Source: Clever Programmer
 
 https://www.youtube.com/watch?v=DQfeB_FKKkc
+
+Tinder clone with React, Material UI, Firebase
